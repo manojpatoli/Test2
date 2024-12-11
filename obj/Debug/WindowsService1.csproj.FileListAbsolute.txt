@@ -5,3 +5,10 @@ C:\Users\Rahul_S\Downloads\WindowsService1\obj\Debug\WindowsService1.csproj.Asse
 C:\Users\Rahul_S\Downloads\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
 C:\Users\Rahul_S\Downloads\WindowsService1\obj\Debug\WindowsService1.exe
 C:\Users\Rahul_S\Downloads\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\MANOJ\Downloads\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\MANOJ\Downloads\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\MANOJ\Downloads\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\MANOJ\Downloads\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+C:\Users\MANOJ\Downloads\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\MANOJ\Downloads\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\MANOJ\Downloads\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
